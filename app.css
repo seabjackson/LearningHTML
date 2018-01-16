@@ -1,0 +1,20 @@
+h1	{
+	color: rgba(2, 200, 100, 0.8);
+	border: 8px dashed tomato;
+	
+}
+
+li	{
+	color: green;
+}
+
+h4 	{
+	background: rgb(255, 10 45);
+}
+
+body {
+	background: hotpink;
+	/*background: url(https://gratisography.com/pictures/271_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
